@@ -13,13 +13,13 @@ from datetime import date
 sys.path.insert(0, os.path.abspath("../.."))
 
 
-from pythontemplate import __version__
+from autobelay import __version__
 
 # -- Project information -----------------------------------------------------
 
-project = "pythontemplate"
-copyright = f"{date.today().year}, YOUR_NAME_HERE"
-author = "YOUR_NAME_HERE"
+project = "autobelay"
+copyright = f"{date.today().year}, Mikkel Roald-Arbøl"
+author = "Mikkel Roald-Arbøl"
 
 # The short X.Y version.
 version = __version__

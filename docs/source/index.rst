@@ -1,4 +1,4 @@
-Welcome to pythontemplate's documentation!
+Welcome to autobelay's documentation!
 ==========================================
 
 .. include:: ../../README.rst

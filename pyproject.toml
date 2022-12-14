@@ -8,15 +8,15 @@ vcs = "git"
 style = "semver"
 
 [tool.poetry]
-name = "pythontemplate"
+name = "autobelay"
 version = "0.0.0"  # Do not change, let poetry-dynamic-versioning handle it.
-homepage = "https://github.com/GIT_USERNAME/GIT_REPONAME"
-repository = "https://github.com/GIT_USERNAME/GIT_REPONAME"
+homepage = "https://github.com/roaldarbol/autobelay"
+repository = "https://github.com/roaldarbol/autobelay"
 license = "Apache-2.0"
 description = ""
-authors = ["YOUR_NAME_HERE"]
+authors = ["Mikkel Roald-Arbøl"]
 readme = "README.rst"
-packages = [{include = "pythontemplate"}]
+packages = [{include = "autobelay"}]
 
 [tool.poetry.dependencies]
 # Be as loose as possible if writing a library.
